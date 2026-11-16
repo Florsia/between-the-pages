@@ -24,3 +24,8 @@ The approved gift photograph is the visual benchmark. Every screen must feel lik
 - Preserve all approved features and user data; no new modules or discarded functionality.
 - Test actual iPhone camera/OCR, exports/sharing, offline storage, timer lock-screen behavior, language coverage, and responsive appearance before gifting.
 - Generated imagery and source inspection are not a substitute for a physical-device test.
+
+## Book Club and My Kobo
+- Book Club: homepage feature with editorial-03 artwork (books and tea); discussion form uses editorial-15 (journal). Existing book covers remain authentic. Club notes stay separate from personal notes and use the same private local backup.
+- My Kobo: Settings feature with editorial-07, matching linen and coffee palette; import previews, controls and forms follow the same design system. No password collection, no direct sync claims. StoryGraph CSV import is user initiated; existing records are skipped unless the user expressly opts into refreshing statuses and dates. Kobo TXT/Markdown annotations are attached to a selected book.
+- Verified with synthetic CSV and mock DOM tests; real Kobo/StoryGraph exports and physical iPhone file selection and sharing still require testing.
