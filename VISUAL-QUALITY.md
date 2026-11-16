@@ -29,3 +29,6 @@ The approved gift photograph is the visual benchmark. Every screen must feel lik
 - Book Club: homepage feature with editorial-03 artwork (books and tea); discussion form uses editorial-15 (journal). Existing book covers remain authentic. Club notes stay separate from personal notes and use the same private local backup.
 - My Kobo: Settings feature with editorial-07, matching linen and coffee palette; import previews, controls and forms follow the same design system. No password collection, no direct sync claims. StoryGraph CSV import is user initiated; existing records are skipped unless the user expressly opts into refreshing statuses and dates. Kobo TXT/Markdown annotations are attached to a selected book.
 - Verified with synthetic CSV and mock DOM tests; real Kobo/StoryGraph exports and physical iPhone file selection and sharing still require testing.
+
+## Scope update
+Reading Collage removed at owner's request on 2026-11-16. Reading Wrapped, Quote Studio and all reading data remain.
