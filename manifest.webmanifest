@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Between the Pages",
+  "short_name": "Between Pages",
+  "description": "Your personal reading sanctuary",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5efe6",
+  "theme_color": "#f5efe6",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
